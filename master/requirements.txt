@@ -1,9 +1,4 @@
-Flask
-Flask-Session
-gunicorn
-psycopg2-binary
 requests
-SQLAlchemy
 certifi==2018.11.29
 chardet==3.0.4
 Click==7.0

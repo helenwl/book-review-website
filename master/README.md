@@ -3,8 +3,6 @@
 ### Course's link
 See [here](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript).
 
-### My certificate
-See [here](https://courses.edx.org/certificates/ce24e09f0bb74979b9cfb4535e72d444).
 
 ### Requirements
 In this project, you’ll build a book review website. Users will be able to register for your website and then log in using their username and password. Once they log in, they will be able to search for books, leave reviews for individual books, and see the reviews made by other people. You’ll also use the a third-party API by Goodreads, another book review website, to pull in ratings from a broader audience. Finally, users will be able to query for book details and book reviews programmatically via your website’s API.
@@ -63,5 +61,4 @@ There are three directories in the project:
     - login.html - login page
     - register.html - register page
     - search.html - search page.
-
-The project's video: https://www.youtube.com/watch?v=onckguR2GCk
+    i also used w3 schools stylesheets to make my project look a bit prettier,
